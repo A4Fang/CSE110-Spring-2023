@@ -77,7 +77,7 @@ The codeblock for the second image is `![How did you know that I play genshin](I
 
 - [x] put it in list format specifically with the hyphen `-`
 - [x] Add brackets after the syntax of a bullet point
-- [ ] leave a space inbetween the brackets for an unchecked box
-- [x] put an `x` in it to check it
+- [ ] leave a space inbetween the brackets for an unchecked box like this `- [ ]`
+- [x] put an `x` in it to check it like  this `- [x]`
 - [x] finished putting all markdown constructs in index.md
 
