@@ -1,5 +1,3 @@
-PICTURE COMING SOON
-
 # All the core Markdown Constructs
 
 ## Headings
