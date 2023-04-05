@@ -48,7 +48,7 @@ You can make text clickable which would direct you to whatever is put in the lin
 
 ## [Section Links (this leads back to the top of this section)](#headings)
 
-Similar to the format of an external link which follows: `[text](#[NAME OF SECTION])` of course on a text with the headings format
+Similar to the format of an external link which follows: `[text](#[NAME OF SECTION])`
 
 ## Relative Links
 
