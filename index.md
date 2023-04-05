@@ -72,7 +72,7 @@ The codeblock for the second image is `![How did you know that I play genshin](I
 
 ## Task lists
 
-- [x] put it in list format
+- [x] put it in list format specifically with the hyphen `-`
 - [x] Add brackets after the syntax of a bullet point
 - [ ] leave a space inbetween the brackets for an unchecked box
 - [x] put an `x` in it to check it
