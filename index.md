@@ -71,8 +71,7 @@ The codeblock for the second image is `![How did you know that I play genshin](I
 + or also `+` which would still create the bullet point
 
 1. If you want an ordered list
-2. use `1.`, `2.`, `3.` instead
-3. What is the longest word you can spell with one hand?
+2. use `1.`, `2.`, `3.`,... instead
 
 ## Task lists
 
