@@ -1,3 +1,7 @@
+# General Introduction
+
+Hello, my name is Andy Fang, a third year Math-CS major at the time I'm creating this. As for who I am, I'm just your typical Asian who's exploring the world of math and coding.
+
 # All the core Markdown Constructs
 
 ## Headings
@@ -52,7 +56,7 @@ Similar to the format of an external link which follows: `[text](#[NAME OF SECTI
 
 ## Images
 
-The instructions told me to put pictures so this is a perfect spot while talking about the topics of links. Simply put an ! before the text.
+The instructions told me to put pictures so this is a perfect spot while talking about the topics of links. To insert an image, simply put an ! before the format of a link. Anything inside the bracket is a description but the parenthesis is the link or directory to the image.
 
 I'll just put a drawing that I drew on my free time that I had at some point: ![meh](Images/AndyStyleLemon.jpg)
 
